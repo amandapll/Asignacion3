@@ -1,0 +1,30 @@
+body {
+	background-color: #6fb8ef;
+}
+
+#logo {
+	width: 15%;
+margin-left: 600px; 
+padding-top: 25px;
+}
+
+#razon1 {
+	margin-top: 250px;
+	margin-left: 350px;
+	width: 50%
+
+}
+
+#home, #profile, #sobre, #refresh {
+	width: 2%;
+}
+
+nav {
+margin-top: -150px;
+margin-left: 20px;
+
+}
+nav ul li {
+	display: inline;
+	padding: 20px;
+}
